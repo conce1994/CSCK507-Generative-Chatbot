@@ -1,0 +1,11 @@
+{
+    "MAX_INPUT_LENGTH": 60,
+    "MAX_TARGET_LENGTH": 55,
+    "MAX_VOCAB_SIZE": 15000,
+    "EMBEDDING_DIM": 256,
+    "HIDDEN_DIM": 512,
+    "PAD_token": 0,
+    "UNK_token": 1,
+    "SOS_token": 2,
+    "EOS_token": 3
+}
