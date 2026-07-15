@@ -1,0 +1,15 @@
+{
+    "experiment_id": "Final",
+    "model_variant": "GRU 256 / lr 0.0001 / early stopping / packed inputs",
+    "vocab_size": 15004,
+    "embedding_dim": 256,
+    "early_stopping_patience": 2,
+    "hidden_dim": 256,
+    "num_layers": 1,
+    "learning_rate": 0.0001,
+    "batch_size": 64,
+    "epochs": 10,
+    "train_subset_size": 35000,
+    "val_subset_size": 9500,
+    "random_state": 42
+}
